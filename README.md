@@ -1,7 +1,5 @@
 # Pedestrian Crash Severity Prediction using Visual and Built Environment Data
 
-![License: MIT](./assets/License-MIT-yellow.svg+xml)
-
 ## 🔍 Overview
 
 This repository presents a data-driven framework for predicting pedestrian crash severity by integrating **built-environment features** and **visual streetscape characteristics** using publicly available geospatial data.
