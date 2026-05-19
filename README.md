@@ -80,7 +80,7 @@ crash-built-visual-ml/
 + Street Openness 🌤️
 + Building View Index 🏢
 + Signage Index 🚧
-+ Streetscape Complexit
++ Streetscape Complexity
 
 ![](./assets/Figure_3.png)
 
@@ -130,7 +130,7 @@ We use SHAP (SHapley Additive Explanations) to:
 ### 1. Clone the repository
 
 ```id="vjx3l9"
-git clone git@github.com:USERNAME/multimodal-crash-severity-prediction.git
+git clone git@github.com:sijantanvir/multimodal-crash-severity-prediction.git
 cd multimodal-crash-severity-prediction
 ```
 
